@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+scrapingtool/__init__.py
+scrapingtool.egg-info/PKG-INFO
+scrapingtool.egg-info/SOURCES.txt
+scrapingtool.egg-info/dependency_links.txt
+scrapingtool.egg-info/requires.txt
+scrapingtool.egg-info/top_level.txt
