@@ -39,10 +39,10 @@
 
 `user_agent = scrapingtool.get_edge_user_agent()`
 
-오페라를 이용한다면 다음 코드를 이용할 수 있습니다.
+사파리를 이용한다면 다음 코드를 이용할 수 있습니다.
 </p>
 
-`user_agent = scrapingtool.get_opera_user_agent()`
+`user_agent = scrapingtool.get_safari_user_agent()`
 </p>
 
 만약 내 브라우저 정보를 모르거나, 자동으로 실행하고 싶다면 아래 코드를 이용할 수 있습니다.
